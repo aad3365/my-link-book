@@ -8,3 +8,6 @@
 - http://unicode.org/charts/
 - https://medium.com/@apiltamang/unicode-utf-8-and-ascii-encodings-made-easy-5bfbe3a1c45a
 
+# RUST
+- https://rinthel.github.io/rust-lang-book-ko/foreword.html
+
