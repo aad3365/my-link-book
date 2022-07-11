@@ -1,5 +1,5 @@
 # IEEE 754
-https://en.wikipedia.org/wiki/IEEE_754
+- https://en.wikipedia.org/wiki/IEEE_754
 
 # unicode and encodings
 - https://en.wikipedia.org/wiki/Unicode
