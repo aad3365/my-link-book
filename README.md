@@ -13,6 +13,7 @@
 
 # SOLIDITY
 - https://betterprogramming.pub/what-is-an-event-in-solidity-420caeb38859
+- https://medium.com/@imolfar/bitwise-operations-and-bit-manipulation-in-solidity-ethereum-1751f3d2e216
 
 # BLOGGER GOOD TO FOLLOW
 - https://deleteman123.medium.com/
