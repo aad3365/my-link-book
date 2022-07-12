@@ -8,6 +8,10 @@
 - http://unicode.org/charts/
 - https://medium.com/@apiltamang/unicode-utf-8-and-ascii-encodings-made-easy-5bfbe3a1c45a
 
+# STACK AND HEAP
+- https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
+- https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/
+
 # RUST
 - https://rinthel.github.io/rust-lang-book-ko/foreword.html
 
