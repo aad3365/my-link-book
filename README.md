@@ -11,3 +11,8 @@
 # RUST
 - https://rinthel.github.io/rust-lang-book-ko/foreword.html
 
+# SOLIDITY
+- https://betterprogramming.pub/what-is-an-event-in-solidity-420caeb38859
+
+# BLOGGER GOOD TO FOLLOW
+- https://deleteman123.medium.com/
