@@ -22,6 +22,7 @@
 ## BITCOIN
 - https://komodoplatform.com/en/academy/bitcoin-script/
 - https://komodoplatform.com/en/academy/p2pkh-pay-to-pubkey-hash/
+- https://en.bitcoin.it/wiki/CoinJoin
 
 ## SOLIDITY
 - https://betterprogramming.pub/what-is-an-event-in-solidity-420caeb38859
