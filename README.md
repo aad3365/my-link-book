@@ -18,7 +18,12 @@
 # RUST
 - https://rinthel.github.io/rust-lang-book-ko/foreword.html
 
-# SOLIDITY
+# BLOCKCHAIN
+## BITCOIN
+- https://komodoplatform.com/en/academy/bitcoin-script/
+- https://komodoplatform.com/en/academy/p2pkh-pay-to-pubkey-hash/
+
+## SOLIDITY
 - https://betterprogramming.pub/what-is-an-event-in-solidity-420caeb38859
 - https://medium.com/@imolfar/bitwise-operations-and-bit-manipulation-in-solidity-ethereum-1751f3d2e216
 
