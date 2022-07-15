@@ -30,3 +30,6 @@
 
 # BLOGGER GOOD TO FOLLOW
 - https://deleteman123.medium.com/
+
+# ??
+- https://coinmarketcap.com/community/articles/30185
