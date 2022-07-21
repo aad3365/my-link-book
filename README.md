@@ -19,6 +19,7 @@
 - https://rinthel.github.io/rust-lang-book-ko/foreword.html
 
 # BLOCKCHAIN
+- https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained
 ## BITCOIN
 - https://komodoplatform.com/en/academy/bitcoin-script/
 - https://komodoplatform.com/en/academy/p2pkh-pay-to-pubkey-hash/
