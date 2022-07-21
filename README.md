@@ -19,8 +19,11 @@
 - https://rinthel.github.io/rust-lang-book-ko/foreword.html
 
 # BLOCKCHAIN
+## consensus
+### pbft
 - https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained
 - https://ko.docs.klaytn.foundation/klaytn/design/consensus-mechanism#pbft-practical-byzantine-fault-tolerance
+- https://coredevs.medium.com/an-introduction-to-pbft-consensus-algorithm-11cbd90aaec
 ## BITCOIN
 - https://komodoplatform.com/en/academy/bitcoin-script/
 - https://komodoplatform.com/en/academy/p2pkh-pay-to-pubkey-hash/
