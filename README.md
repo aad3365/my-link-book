@@ -10,7 +10,7 @@
 
 # BASH
 - https://bash.cyberciti.biz/guide/Bash_special_parameters
-- https://stackoverflow.com/questions/8934012/when-are-square-brackets-required-in-a-bash-if-statement
+- bash brackets compare: https://unix.stackexchange.com/questions/306111/what-is-the-difference-between-the-bash-operators-vs-vs-vs
 
 # STACK AND HEAP
 - https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
