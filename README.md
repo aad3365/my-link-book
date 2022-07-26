@@ -11,6 +11,7 @@
 # BASH
 - https://bash.cyberciti.biz/guide/Bash_special_parameters
 - bash brackets compare: https://unix.stackexchange.com/questions/306111/what-is-the-difference-between-the-bash-operators-vs-vs-vs
+- https://linuxize.com/post/bash-check-if-file-exists/
 
 # STACK AND HEAP
 - https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
