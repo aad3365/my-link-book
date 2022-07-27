@@ -8,6 +8,8 @@
 - http://unicode.org/charts/
 - https://medium.com/@apiltamang/unicode-utf-8-and-ascii-encodings-made-easy-5bfbe3a1c45a
 
+# CSS
+- grid https://yamoo9.gitbook.io/css-grid/
 # BASH
 - https://bash.cyberciti.biz/guide/Bash_special_parameters
 - bash brackets compare: https://unix.stackexchange.com/questions/306111/what-is-the-difference-between-the-bash-operators-vs-vs-vs
