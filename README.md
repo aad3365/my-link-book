@@ -10,6 +10,9 @@
 
 # CSS
 - grid https://yamoo9.gitbook.io/css-grid/
+# rxjs
+- http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html
+
 # BASH
 - https://bash.cyberciti.biz/guide/Bash_special_parameters
 - bash brackets compare: https://unix.stackexchange.com/questions/306111/what-is-the-difference-between-the-bash-operators-vs-vs-vs
