@@ -26,6 +26,8 @@
 
 # RUST
 - https://rinthel.github.io/rust-lang-book-ko/foreword.html
+# NODEJS
+- es module explained https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
 
 # BLOCKCHAIN
 ## consensus
