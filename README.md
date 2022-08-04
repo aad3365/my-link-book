@@ -8,6 +8,10 @@
 - http://unicode.org/charts/
 - https://medium.com/@apiltamang/unicode-utf-8-and-ascii-encodings-made-easy-5bfbe3a1c45a
 
+# ENDIAN
+- http://www.tcpschool.com/c/c_refer_endian
+- https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/
+
 # GIT
 - https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
 # CSS
