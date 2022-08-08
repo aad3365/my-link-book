@@ -46,6 +46,9 @@
 - https://academy.binance.com/en/articles/coin-mixing-and-coinjoins-explained
 - https://en.bitcoin.it/wiki/Script
 - https://siminchen.github.io/bitcoinIDE/build/editor.html
+## PRIVACY
+### HORIZEN
+- https://academy.horizen.io/technology/advanced/privacy-on-the-blockchain/#
 
 ## SOLIDITY
 - https://betterprogramming.pub/what-is-an-event-in-solidity-420caeb38859
