@@ -47,6 +47,8 @@
 - https://academy.binance.com/en/articles/coin-mixing-and-coinjoins-explained
 - https://en.bitcoin.it/wiki/Script
 - https://siminchen.github.io/bitcoinIDE/build/editor.html
+## SOLANA
+- solana account model https://solana.wiki/zh-cn/docs/account-model/
 ## PRIVACY
 - https://academy.horizen.io/technology/advanced/privacy-on-the-blockchain/#
 - https://nopara73.medium.com/tumblebit-vs-coinjoin-15e5a7d58e3
