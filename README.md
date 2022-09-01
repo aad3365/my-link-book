@@ -47,6 +47,8 @@
 - https://academy.binance.com/en/articles/coin-mixing-and-coinjoins-explained
 - https://en.bitcoin.it/wiki/Script
 - https://siminchen.github.io/bitcoinIDE/build/editor.html
+## ETHEREUM
+- debuging txpool https://chainstack.com/exploring-the-methods-of-looking-into-ethereums-transaction-pool/
 ## SOLANA
 - solana account model https://solana.wiki/zh-cn/docs/account-model/
 ## PRIVACY
