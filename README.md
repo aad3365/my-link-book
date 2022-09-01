@@ -49,6 +49,7 @@
 - https://siminchen.github.io/bitcoinIDE/build/editor.html
 ## ETHEREUM
 - debuging txpool https://chainstack.com/exploring-the-methods-of-looking-into-ethereums-transaction-pool/
+- evm storage https://www.adrianhetman.com/unboxing-evm-storage/
 ## SOLANA
 - solana account model https://solana.wiki/zh-cn/docs/account-model/
 ## PRIVACY
