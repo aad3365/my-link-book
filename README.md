@@ -28,6 +28,9 @@
 - https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
 - https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/
 
+# GO
+- https://www.miek.nl/go/
+
 # RUST
 - https://rinthel.github.io/rust-lang-book-ko/foreword.html
 # NODEJS
