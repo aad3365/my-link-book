@@ -24,6 +24,9 @@
 - bash brackets compare: https://unix.stackexchange.com/questions/306111/what-is-the-difference-between-the-bash-operators-vs-vs-vs
 - https://linuxize.com/post/bash-check-if-file-exists/
 
+# NGINX
+- nginx worker_connections 와 not enough warning https://trac.nginx.org/nginx/ticket/2285
+
 # STACK AND HEAP
 - https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
 - https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/
