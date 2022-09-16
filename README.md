@@ -57,6 +57,7 @@
 - debuging txpool https://chainstack.com/exploring-the-methods-of-looking-into-ethereums-transaction-pool/
 - evm storage https://www.adrianhetman.com/unboxing-evm-storage/
 - https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
+- rollup https://decrypt.co/resources/what-are-ethereum-rollups-scaling-solution-cut-transaction-costs
 ## SOLANA
 - solana account model https://solana.wiki/zh-cn/docs/account-model/
 ## PRIVACY
