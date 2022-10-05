@@ -59,6 +59,7 @@
 - evm storage https://www.adrianhetman.com/unboxing-evm-storage/
 - https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
 - rollup https://decrypt.co/resources/what-are-ethereum-rollups-scaling-solution-cut-transaction-costs
+- tokens in ethereum https://medium.com/mycrypto/the-technology-behind-ethereum-tokens-5615527e1af8
 ## SOLANA
 - solana account model https://solana.wiki/zh-cn/docs/account-model/
 ## PRIVACY
