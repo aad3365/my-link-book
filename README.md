@@ -76,6 +76,7 @@
 - https://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
 
 # UNIX SYSTEM
+- tldp https://tldp.org/guides.html
 - file descriptors stack-overflow: https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms
 # ??
 - https://coinmarketcap.com/community/articles/30185
