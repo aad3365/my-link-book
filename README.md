@@ -75,6 +75,8 @@
 # VIM
 - https://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
 
+# UNIX SYSTEM
+- file descriptors stack-overflow: https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms
 # ??
 - https://coinmarketcap.com/community/articles/30185
 - https://github.com/phusion/baseimage-docker
