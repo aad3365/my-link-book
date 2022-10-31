@@ -78,8 +78,10 @@
 # UNIX SYSTEM
 - tldp https://tldp.org/guides.html
 - file descriptors stack-overflow: https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms
+- make 에 대해 http://doc.kldp.org/KoreanDoc/html/GNU-Make/
 # ??
 - https://coinmarketcap.com/community/articles/30185
 - https://github.com/phusion/baseimage-docker
+- tor 빌드 에러 https://www.mail-archive.com/cypherpunks@lists.cpunks.org/msg19949.html
 # 커스텀 키보드
 - https://dogbird-foot.tistory.com/61?category=884682
