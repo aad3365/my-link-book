@@ -79,6 +79,7 @@
 - tldp https://tldp.org/guides.html
 - file descriptors stack-overflow: https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms
 - make 에 대해 http://doc.kldp.org/KoreanDoc/html/GNU-Make/
+- link 와 loader https://www.lesstif.com/software-architect/shared-library-linker-loader-12943542.html
 # ??
 - https://coinmarketcap.com/community/articles/30185
 - https://github.com/phusion/baseimage-docker
