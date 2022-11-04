@@ -62,6 +62,8 @@
 - tokens in ethereum https://medium.com/mycrypto/the-technology-behind-ethereum-tokens-5615527e1af8
 ## SOLANA
 - solana account model https://solana.wiki/zh-cn/docs/account-model/
+## ALGORAND
+- algorand transaction explained https://medium.com/algorand/the-algorand-pay-transaction-73f273cd71a
 ## PRIVACY
 - https://academy.horizen.io/technology/advanced/privacy-on-the-blockchain/#
 - https://nopara73.medium.com/tumblebit-vs-coinjoin-15e5a7d58e3
