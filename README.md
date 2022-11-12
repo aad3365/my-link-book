@@ -61,6 +61,7 @@
 - rollup https://decrypt.co/resources/what-are-ethereum-rollups-scaling-solution-cut-transaction-costs
 - tokens in ethereum https://medium.com/mycrypto/the-technology-behind-ethereum-tokens-5615527e1af8
 - reversing smart contract https://trustchain.medium.com/reversing-and-debugging-evm-smart-contracts-392fdadef32d
+- evm byte op codes https://www.ethervm.io/
 ## SOLANA
 - solana account model https://solana.wiki/zh-cn/docs/account-model/
 ## ALGORAND
