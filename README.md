@@ -89,5 +89,7 @@
 - https://github.com/phusion/baseimage-docker
 - tor 빌드 에러 https://www.mail-archive.com/cypherpunks@lists.cpunks.org/msg19949.html
 - 코드 가독성을 측정하는 법 https://softwareengineering.stackexchange.com/questions/141005/how-would-you-know-if-youve-written-readable-and-easily-maintainable-code
+# jobs
+- https://web3.career/
 # 커스텀 키보드
 - https://dogbird-foot.tistory.com/61?category=884682
