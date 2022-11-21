@@ -71,6 +71,8 @@
 - https://nopara73.medium.com/tumblebit-vs-coinjoin-15e5a7d58e3
 - https://firo.org/guide/privacy-coin-comparison.html
 - https://veil-project.com/blog/understanding-zerocoin/
+## GAMING
+- what are blockchain games? https://limechain.tech/blog/blockchain-gaming-2022/
 
 ## SOLIDITY
 - https://betterprogramming.pub/what-is-an-event-in-solidity-420caeb38859
