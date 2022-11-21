@@ -77,6 +77,7 @@
 ## SOLIDITY
 - https://betterprogramming.pub/what-is-an-event-in-solidity-420caeb38859
 - https://medium.com/@imolfar/bitwise-operations-and-bit-manipulation-in-solidity-ethereum-1751f3d2e216
+- smart contract security https://www.web3.university/tracks/create-a-smart-contract/smart-contract-security-challenges
 
 # VIM
 - https://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
