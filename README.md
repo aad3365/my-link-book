@@ -74,6 +74,9 @@
 ## GAMING
 - what are blockchain games? https://limechain.tech/blog/blockchain-gaming-2022/
 
+## LAYER2 SOLUTION
+- arbitrum https://medium.com/offchainlabs/introducing-arbitrum-86a3cfb8bdbf
+
 ## SOLIDITY
 - https://betterprogramming.pub/what-is-an-event-in-solidity-420caeb38859
 - https://medium.com/@imolfar/bitwise-operations-and-bit-manipulation-in-solidity-ethereum-1751f3d2e216
