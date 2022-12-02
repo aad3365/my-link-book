@@ -85,6 +85,7 @@
 - smart contract security https://www.web3.university/tracks/create-a-smart-contract/smart-contract-security-challenges
 - alchemy tutorial https://docs.alchemy.com/docs/how-to-develop-an-nft-smart-contract-erc721-with-alchemy
 - https://solidity-by-example.org/
+- https://medium.com/mycrypto/understanding-event-logs-on-the-ethereum-blockchain-f4ae7ba50378
 
 # VIM
 - https://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
