@@ -33,6 +33,8 @@
 
 # GO
 - https://www.miek.nl/go/
+# C++ / C
+- https://ptgmedia.pearsoncmg.com/images/0321335724/samplechapter/seacord_ch05.pdf
 
 # RUST
 - https://rinthel.github.io/rust-lang-book-ko/foreword.html
