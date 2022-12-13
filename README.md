@@ -42,6 +42,7 @@
 - es module explained https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
 - when global module command not found https://stackoverflow.com/questions/15054388/global-node-modules-not-installing-correctly-command-not-found
 - typescript module resolutino https://www.typescriptlang.org/docs/handbook/module-resolution.html
+- https://2ality.com/index.html
 
 # BLOCKCHAIN
 ## consensus
