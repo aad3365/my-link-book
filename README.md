@@ -90,6 +90,7 @@
 - https://solidity-by-example.org/
 - https://medium.com/mycrypto/understanding-event-logs-on-the-ethereum-blockchain-f4ae7ba50378
 - solidity official blog https://blog.soliditylang.org/
+- storage memory calldata 설명이 잘 적힌 답변 https://ethereum.stackexchange.com/questions/107028/in-what-cases-would-i-set-a-parameter-to-use-storage-instead-of-memory
 
 # VIM
 - https://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
