@@ -91,6 +91,7 @@
 - https://medium.com/mycrypto/understanding-event-logs-on-the-ethereum-blockchain-f4ae7ba50378
 - solidity official blog https://blog.soliditylang.org/
 - storage memory calldata 설명이 잘 적힌 답변 https://ethereum.stackexchange.com/questions/107028/in-what-cases-would-i-set-a-parameter-to-use-storage-instead-of-memory
+- https://etherscan.io/token/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa#code 이 컨트랙트의 주석은 solidity 
 
 # VIM
 - https://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
