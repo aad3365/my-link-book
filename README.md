@@ -1,11 +1,6 @@
-# IEEE 754
-- https://en.wikipedia.org/wiki/IEEE_754
-
 # UNICODE, ENCODING
-- https://en.wikipedia.org/wiki/Unicode
-- https://en.wikipedia.org/wiki/UTF-8
 - https://home.unicode.org/basic-info/overview/
-- http://unicode.org/charts/
+- https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 - https://medium.com/@apiltamang/unicode-utf-8-and-ascii-encodings-made-easy-5bfbe3a1c45a
 
 # ENDIAN
