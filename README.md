@@ -8,7 +8,7 @@
 - https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/
 
 # GIT
-- https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud (atlassian 
+- https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 - https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
 # CSS
 - grid https://yamoo9.gitbook.io/css-grid/
