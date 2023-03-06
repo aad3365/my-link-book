@@ -41,6 +41,7 @@
 - https://2ality.com/index.html
 
 # BLOCKCHAIN
+- https://blockchain-comparison.com/
 ## consensus
 ### pbft
 - https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained
