@@ -68,6 +68,8 @@
 - algorand transaction explained https://medium.com/algorand/the-algorand-pay-transaction-73f273cd71a
 ## ARBITRUM
 - https://developer.offchainlabs.com/inside-arbitrum-nitro/
+## SHARDING
+- NEAR sharding white paper (sharding 기법에 대한 내용이 정말 잘 쓰여져 있다) https://near.org/papers/nightshade/#state-validity-and-data-availability
 ## PRIVACY
 - https://academy.horizen.io/technology/advanced/privacy-on-the-blockchain/#
 - https://nopara73.medium.com/tumblebit-vs-coinjoin-15e5a7d58e3
