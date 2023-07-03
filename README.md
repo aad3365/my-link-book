@@ -7,6 +7,9 @@
 - http://www.tcpschool.com/c/c_refer_endian
 - https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/
 
+# CRYPTO
+- how publickey made https://medium.com/coinmonks/private-and-public-key-cryptography-explained-simply-4c374d371736
+
 # GIT
 - https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 - https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
