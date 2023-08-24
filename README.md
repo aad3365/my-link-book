@@ -3,6 +3,9 @@
 - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 - https://medium.com/@apiltamang/unicode-utf-8-and-ascii-encodings-made-easy-5bfbe3a1c45a
 
+# GPG, privacy
+- https://developer.okta.com/blog/2021/07/07/developers-guide-to-gpg gpg yubikey guide
+
 # ENDIAN
 - http://www.tcpschool.com/c/c_refer_endian
 - https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/
