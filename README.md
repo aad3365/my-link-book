@@ -3,6 +3,9 @@
 - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 - https://medium.com/@apiltamang/unicode-utf-8-and-ascii-encodings-made-easy-5bfbe3a1c45a
 
+# Network
+- https://doublem.org/webrtc-story-02/ webrtc signaling server 제작에 대한 설명 및 예시
+
 # GPG, privacy
 - https://developer.okta.com/blog/2021/07/07/developers-guide-to-gpg gpg yubikey guide
 
